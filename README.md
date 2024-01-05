@@ -42,3 +42,9 @@ This course assumes no prior knowledge and only requires access to a Windows dev
 ## Contributing
 
 We welcome contributions to this course! If you have a suggestion or improvement, please feel free to open an issue or submit a pull request.
+
+
+
+## Tash testing out GitHub functionality
+
+This is new for me :) 
